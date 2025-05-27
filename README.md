@@ -1,6 +1,6 @@
 # Fermi-LAT 12-years all-sky gamma-ray maps 
 
-This repository contain the Fermi-LAT all-sky Gamma-Ray maps used in the cross-correlation analysis performed by [Thakore et. al. (2025)](https://arxiv.org/pdf/2501.10506) between the tangential shear obtained from the DES Y3 survey and 12-year gamma-ray data from the [Fermi Large Area Telescope (LAT)](https://fermi.gsfc.nasa.gov). We refer to the aforementioned paper for the details regarding the generation of the gamma-ray maps, as well as to [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079) for additional tests. The main characterisitcs of these maps are listed below.
+This repository contain the Fermi-LAT all-sky Gamma-Ray maps used in the cross-correlation analysis performed by [Thakore et. al. (2025)](https://arxiv.org/pdf/2501.10506) between the tangential shear obtained from the DES Y3 survey (data available from [DES Data Management](https://des.ncsa.illinois.edu)) and 12-year gamma-ray data from the [Fermi Large Area Telescope (LAT)](https://fermi.gsfc.nasa.gov). We refer to the aforementioned paper for the details regarding the generation of the gamma-ray maps, as well as to [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079) for additional tests. The main characterisitcs of these maps are listed below.
 
 ## The Maps 
 
