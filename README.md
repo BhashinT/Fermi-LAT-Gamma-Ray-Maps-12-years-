@@ -20,5 +20,5 @@ Each .zip file contains a (NSIDE=1024) map in one of the nine energy bins detail
 > - The maps are integrated flux maps in the different enerrgy bins, in units of $cm^{-2} s^{-1} sr^{-1}$, foreground subtracted (see details in [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079)).
 
 >[!Caution]
->It is not advised to use these maps to different types of analyses different from auto/cross-correlations like [Ammazzalorso et al 2018](https://arxiv.org/abs/1808.09225), [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079), [Ammazzalorso et al 2020](https://arxiv.org/abs/1907.13484), [Thakore et. al. (2025)](https://arxiv.org/pdf/2501.10506), [Negro et al 2022](https://arxiv.org/abs/2304.10934)
+>It is not advised to use these maps for types of analyses different from auto/cross-correlations like [Ammazzalorso et al 2018](https://arxiv.org/abs/1808.09225), [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079), [Ammazzalorso et al 2020](https://arxiv.org/abs/1907.13484), [Thakore et. al. (2025)](https://arxiv.org/pdf/2501.10506), [Negro et al 2022](https://arxiv.org/abs/2304.10934)
 
