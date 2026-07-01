@@ -16,7 +16,7 @@ Each .zip file contains a (NSIDE=1024) map in one of the nine energy bins detail
   - Index 8 : 131.8 GeV to 1.00 TeV
 
 >[!Note]
-> - The maps are masked, with a energy-dependent mask (as detailed in [Thakore et. al. (2025)](https://arxiv.org/pdf/2501.10506) and [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079)). The masked puxels are rendered with a pixel is set to the healpy UNSEEN value.
+> - The maps are masked, with a energy-dependent mask (as detailed in [Thakore et. al. (2025)](https://arxiv.org/pdf/2501.10506) and [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079)). The masked pixels are rendered with a pixel is set to the healpy UNSEEN value.
 > - The maps are integrated flux maps in the different enerrgy bins, in units of $cm^{-2} s^{-1} sr^{-1}$, foreground subtracted (see details in [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079)).
 
 >[!Caution]
