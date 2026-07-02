@@ -1,6 +1,6 @@
 # Fermi-LAT 12-years all-sky gamma-ray maps 
 
-This repository contain the Fermi-LAT all-sky Gamma-Ray maps used in the cross-correlation analysis performed by [Thakore et. al. (2025)](https://arxiv.org/pdf/2501.10506) between the tangential shear obtained from the DES Y3 survey (data available from [DES Data Management](https://des.ncsa.illinois.edu)) and 12-year gamma-ray data from the [Fermi Large Area Telescope (LAT)](https://fermi.gsfc.nasa.gov). We refer to the aforementioned paper for the details regarding the generation of the gamma-ray maps, as well as to [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079) for additional tests. The main characterisitcs of these maps are listed below.
+This repository contain the Fermi-LAT all-sky Gamma-Ray maps used in the cross-correlation analysis performed by [Thakore et. al. (2025)](https://arxiv.org/pdf/2501.10506) and [Thakore et. al. (2026)](https://arxiv.org/abs/2601.13312) between the tracers of gravitational structure (namely, tangential shear and galaxies) obtained from the DES Y3 survey (data available from [DES Data Management](https://des.ncsa.illinois.edu)) and 12-year gamma-ray data from the [Fermi Large Area Telescope (LAT)](https://fermi.gsfc.nasa.gov). We refer to the aforementioned papers for the details regarding the generation of the gamma-ray maps, as well as to [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079) for additional tests. The main characterisitcs of these maps are listed below.
 
 ## The Maps 
 
@@ -16,7 +16,7 @@ Each .zip file contains a (NSIDE=1024) map in one of the nine energy bins detail
   - Index 8 : 131.8 GeV to 1.00 TeV
 
 >[!Note]
-> - The maps are masked, with a energy-dependent mask (as detailed in [Thakore et. al. (2025)](https://arxiv.org/pdf/2501.10506) and [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079)). The masked pixels are rendered with a pixel is set to the healpy UNSEEN value.
+> - The maps are masked, with a energy-dependent mask (as detailed in [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079)).
 > - The maps are integrated flux maps in the different enerrgy bins, in units of $cm^{-2} s^{-1} sr^{-1}$, foreground subtracted (see details in [Ackermann et al. 2019](https://arxiv.org/abs/1812.02079)).
 
 >[!Caution]
